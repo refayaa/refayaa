@@ -1,186 +1,206 @@
 <!-- Banner/Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=200&section=header&text=EMBEDDED%20SYSTEMS%20ENGINEER&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e6e6fa,100:fffacd&height=180&section=header&text=Embedded%20Systems%20Developer&fontSize=42&fontColor=5d5d5d&animation=fadeIn&fontAlignY=38&stroke=fffacd" alt="Header"/>
   
-  <h1>⚡ Refaya Ahmed | Electrical Engineering Student</h1>
-  <h3>Specializing in Embedded Systems • Signal Processing • Aerospace Electronics</h3>
+  <h2 style="color: #5d5d5d; margin-bottom: 8px;">Refaya Ahmed</h2>
+  <h4 style="color: #7a7a7a; font-weight: 400; margin-top: 0;">
+    Electrical Engineering • Embedded Systems • Hardware Prototyping
+  </h4>
   
-  <p>
-    <i>"Designing hardware solutions that bridge electrical engineering and real-world applications"</i>
+  <p style="color: #888; font-style: italic; max-width: 600px; margin: 0 auto;">
+    Designing practical hardware solutions that bridge theoretical concepts with real-world applications
   </p>
   
-  <p>
-    • Aircraft Electrical Systems @ Qatar Airways • Power Grid Planning @ Kahramaa • Biomedical AI Research @ QU •
-  </p>
-  
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=refayaa.refayaa)
+  <div style="margin: 16px 0;">
+    <img src="https://komarev.com/ghpvc/?username=refayaa&color=9c8dff" alt="Profile views" />
+  </div>
 </div>
 
-<!-- Quick Links -->
-<div align="center">
-  <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-hardware-expertise">Expertise</a> •
-  <a href="#-featured-projects">Projects</a> •
-  <a href="#-project-highlights">Highlights</a> •
-  <a href="#-github-stats">Stats</a> •
-  <a href="#-contact">Contact</a>
+<!-- Quick Navigation -->
+<div align="center" style="margin: 24px 0;">
+  <a href="#-tech-stack" style="margin: 0 10px; text-decoration: none; color: #9c8dff; font-weight: 500;">Tech Stack</a> •
+  <a href="#-expertise" style="margin: 0 10px; text-decoration: none; color: #9c8dff; font-weight: 500;">Expertise</a> •
+  <a href="#-projects" style="margin: 0 10px; text-decoration: none; color: #9c8dff; font-weight: 500;">Projects</a> •
+  <a href="#-stats" style="margin: 0 10px; text-decoration: none; color: #9c8dff; font-weight: 500;">Stats</a> •
+  <a href="#-connect" style="margin: 0 10px; text-decoration: none; color: #9c8dff; font-weight: 500;">Connect</a>
 </div>
 
 <br>
 
 <!-- Tech Stack Section -->
-## 🔧 Tech Stack
+## 🛠️ Tech Stack
 <div align="center">
-  
+
 ### **Languages & Frameworks**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-8C2E5F?style=for-the-badge&logo=vhdl&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=f8f9fa)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=f8f9fa)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=f8f9fa)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=f8f9fa)
 
-### **Microcontrollers & Boards**
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+### **Embedded Platforms**
+![mbed](https://img.shields.io/badge/mbed-LPC1768-0084B6?style=for-the-badge&logo=arm&logoColor=white&labelColor=f8f9fa)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white&labelColor=f8f9fa)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=f8f9fa)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FFBE00?style=for-the-badge&logo=platformio&logoColor=white&labelColor=f8f9fa)
 
-### **Tools & Simulation**
-![PlatformIO](https://img.shields.io/badge/PlatformIO-FFBE00?style=for-the-badge&logo=platformio&logoColor=white)
-![Simulink](https://img.shields.io/badge/Simulink-8A2BE2?style=for-the-badge&logo=mathworks&logoColor=white)
-![NI Multisim](https://img.shields.io/badge/NI_Multisim-FF6B35?style=for-the-badge&logo=national-instruments&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-FF6B35?style=for-the-badge&logo=autodesk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### **Tools & Design**
+![Simulink](https://img.shields.io/badge/Simulink-8A2BE2?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=f8f9fa)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-FF6B35?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=f8f9fa)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=f8f9fa)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white&labelColor=f8f9fa)
 
 </div>
 
 <br>
 
-<!-- Hardware Expertise Section -->
-## 🎛️ Hardware Expertise
+<!-- Expertise Section -->
+## 📊 Expertise
+<div align="center">
 
-### **Microcontroller Platforms**
-- **ESP32**: Signal conditioning, ADC interfacing, real-time systems (ECG denoising, proximity sensing)
-- **STM32**: Low-level programming, peripheral control, embedded systems
-- **Arduino**: Rapid prototyping, sensor integration, IoT applications
+| **Domain** | **Skills & Applications** |
+|------------|---------------------------|
+| **Signal Processing** | ECG denoising • Ultrasonic sensing • Digital filtering • SDR communications |
+| **Embedded Systems** | Real-time processing • Sensor integration • ADC/DAC interfacing • Low-power design |
+| **Power Systems** | Electrical load analysis • Distribution planning • Bus capacity optimization |
+| **Hardware Design** | PCB prototyping • Circuit simulation • RF design • System integration |
 
-### **Signal Processing**
-- ECG signal denoising & filtering (baseline wander, powerline interference removal)
-- Digital modulation schemes (SDR communication systems)
-- Ultrasonic signal processing (car proximity measurement)
-- RF circuit design (100MHz EM wave gun prototype)
-
-### **Power Systems & Analysis**
-- Aircraft Electrical Load Analysis (ELA) - 115VAC/28VDC bus loading
-- Power distribution network planning & optimization
-- Bus capacity analysis and overload condition identification
-- Electrical equipment design verification and factory acceptance testing
-
-### **AI/ML Applications**
-- Diabetic Foot Ulcer segmentation and severity grading
-- Thermal image processing for medical diagnostics
-- Dataset management (2,000+ clinical cases)
-- Meggitt-Wagner scale clinical classification
+</div>
 
 <br>
 
 <!-- Project Highlights -->
-## 📊 Project Highlights
-
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%); padding: 20px; border-radius: 12px; border: 1px solid #eaeaea; margin: 20px 0;">
   
-![Cost Reduction](https://img.shields.io/badge/Cost_Reduction-90%25+-brightgreen)
-![System Accuracy](https://img.shields.io/badge/System_Accuracy-95%25+-blue)
-![Aircraft Models](https://img.shields.io/badge/Aircraft_Models-Complete_QF_Fleet-yellow)
-![Dataset Size](https://img.shields.io/badge/Dataset-2,000_Cases-important)
-![Power Systems](https://img.shields.io/badge/Power_Systems-115VAC/28VDC-orange)
-![Microcontrollers](https://img.shields.io/badge/MCUs_Programmed-5+-purple)
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <div style="text-align: center;">
+      <div style="font-size: 24px; color: #9c8dff; font-weight: bold;">90%+</div>
+      <div style="font-size: 14px; color: #666;">Cost Reduction</div>
+    </div>
+    <div style="text-align: center;">
+      <div style="font-size: 24px; color: #9c8dff; font-weight: bold;">95%</div>
+      <div style="font-size: 14px; color: #666;">System Accuracy</div>
+    </div>
+    <div style="text-align: center;">
+      <div style="font-size: 24px; color: #ffd166; font-weight: bold;">6+</div>
+      <div style="font-size: 14px; color: #666;">Hardware Projects</div>
+    </div>
+    <div style="text-align: center;">
+      <div style="font-size: 24px; color: #ffd166; font-weight: bold;">2000+</div>
+      <div style="font-size: 14px; color: #666;">Dataset Cases</div>
+    </div>
+  </div>
 
 </div>
 
 <br>
 
-<!-- Featured Projects Section -->
+<!-- Featured Projects -->
 ## 🚀 Featured Projects
 
-| Project | Description | Tech | Status | Key Metric |
-|---------|-------------|------|--------|------------|
-| [**Aircraft ELA Simulation**](https://github.com/refayaa/aircraft-ela-simulator) | Interactive electrical load analysis for Qatar Airways fleet | Python, MATLAB, Simulink | ![Completed](https://img.shields.io/badge/Completed-blue) | Models all flight phases |
-| [**Ultrasonic Car Proximity**](https://github.com/refayaa/car-proximity-assist) | Low-cost (<$50) ultrasonic system with 95% accuracy | ESP32, C++, ADC | ![Completed](https://img.shields.io/badge/Completed-blue) | 90% cost reduction |
-| [**ECG Signal Denoising**](https://github.com/refayaa/ecg-denoising) | Real-time ECG filtering for biomedical monitoring | ESP32, C, DSP | ![Completed](https://img.shields.io/badge/Completed-blue) | Real-time processing |
-| [**EM Wave Gun Prototype**](https://github.com/refayaa/em-wave-gun) | 100MHz microstrip-based EM wave gun | PCB Design, RF | ![Prototype](https://img.shields.io/badge/Prototype-orange) | 100MHz operation |
-| [**SDR Communication Link**](https://github.com/refayaa/sdr-communication) | Point-to-point wired communication using ADALM-Pluso | MATLAB, Simulink | ![Completed](https://img.shields.io/badge/Completed-blue) | Digital modulation |
-| [**Environmental Controller**](https://github.com/refayaa/aecs-system) | Embedded system for optimized environmental control | Microcontrollers, Sensors | ![Completed](https://img.shields.io/badge/Completed-blue) | Energy efficient |
-| [**DFU AI System**](https://github.com/refayaa/dfu-ai-system) | AI-powered diabetic foot ulcer analysis | Python, ML, CV | ![Research](https://img.shields.io/badge/Research-purple) | 2,000+ cases |
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 20px;">
+
+### **Aircraft Electrical Load Analysis**
+*Python • MATLAB • Simulink*
+- Developed simulation tool for Qatar Airways fleet
+- Modeled 115VAC/28VDC bus loading across flight phases
+- Enabled scenario-based electrical system assessment
+
+### **Ultrasonic Car Proximity System**
+*ESP32 • C++ • Signal Processing*
+- Designed low-cost (<$50) proximity assist system
+- Achieved 95% measurement accuracy
+- 90% cost reduction vs commercial systems
+
+### **ECG Signal Denoising**
+*ESP32 • C • Digital Filters*
+- Real-time filtering for biomedical monitoring
+- Removed baseline wander & powerline interference
+- Enhanced QRS complex detection
+
+### **EM Wave Gun Prototype**
+*PCB Design • RF Circuits • 100MHz*
+- Microstrip-based electromagnetic wave generator
+- Integrated VCO and power amplifier
+- Custom PCB fabrication and testing
+
+### **SDR Communication Link**
+*MATLAB • ADALM-Pluso • Digital Modulation*
+- Point-to-point wired communication system
+- Configured modulation schemes in Simulink
+- Real-time signal transmission and visualization
+
+### **Environmental Control System**
+*mbed LPC1768 • Sensors • Actuators*
+- Automated environmental monitoring and control
+- Optimized energy efficiency algorithms
+- Real-time data acquisition and processing
+
+</div>
 
 <br>
 
-<!-- GitHub Stats Section -->
+<!-- GitHub Stats -->
 ## 📈 GitHub Stats
 <div align="center">
-  
-![Refaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=refayaa&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=3a7bd5&icon_color=00d2ff&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=refayaa&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=3a7bd5&hide=html,css,scss)
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
 
-<!-- Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=refayaa&theme=dark&hide_border=true&background=0d1117&stroke=00d2ff&fire=FF0000)
+![Refaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=refayaa&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=9c8dff&text_color=5d5d5d&icon_color=ffd166&include_all_commits=true)
 
-<!-- Activity Graph -->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=refayaa&theme=github-dark&hide_border=true&bg_color=0d1117&color=3a7bd5&line=00d2ff&point=ffffff&area=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=refayaa&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=9c8dff&text_color=5d5d5d&hide=html,css,scss)
+
+</div>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=refayaa&theme=github-light&hide_border=true&bg_color=ffffff&color=9c8dff&line=ffd166&point=888888&area=true&area_color=9c8dff22)
 
 </div>
 
 <br>
 
-<!-- Experience Timeline -->
-## 🏢 Professional Experience
+<!-- Professional Experience -->
+## 💼 Experience Highlights
+<div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; margin: 20px 0;">
 
-### **Qatar Airways** - *Intern (Aircraft Programme)*
-- Developed Aircraft Electrical Load Analysis (ELA) simulation tool
-- Modeled 115VAC and 28VDC bus loading for entire Qatar Airways fleet
-- Enabled scenario-based assessment of electrical loads across all flight phases
+### **Aircraft Systems Development**
+*Developed electrical load analysis tools for commercial aircraft fleet management*
 
-### **Kahramaa** - *Student Trainee (Electrical Network Planning)*
-- Engineered and optimized electrical distribution networks
-- Conducted design verification and factory acceptance testing of electrical equipment
-- Utilized GIS mapping and system analysis for transmission projects
+### **Power Distribution Engineering**
+*Contributed to electrical network planning and optimization projects*
 
-### **Qatar University** - *Research Assistant*
-- Contributed to AI-powered Diabetic Foot Ulcer segmentation system
-- Co-authored review paper on AI-based solutions for DFU management
-- Leveraged dataset of 2,000+ cases with clinical classification
+### **Biomedical AI Research**
+*Co-authored research on AI applications for medical diagnostics*
+
+</div>
 
 <br>
 
-<!-- Contact Section -->
-## 📫 Contact & Connect
+<!-- Connect Section -->
+## 🌐 Connect
 <div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-refaya.ahmed33@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:refaya.ahmed33@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+974_70232492-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+97470232492)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Here-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/refaya-ahmed-2998b8309/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/refayaa?tab=repositories)
 
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  
-[![Qatar University](https://img.shields.io/badge/Qatar_University-8B0000?style=for-the-badge&logo=university&logoColor=white)]()
-[![Electrical Engineering](https://img.shields.io/badge/BSc_EE-May_2026-8A2BE2?style=for-the-badge&logo=graduation-cap&logoColor=white)]()
-![CGPA](https://img.shields.io/badge/CGPA-3.69/4.0-brightgreen?style=for-the-badge)
+[![Email](https://img.shields.io/badge/Email-refaya.ahmed33@gmail.com-9c8dff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:refaya.ahmed33@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-View_All-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/refayaa?tab=repositories)
 
 </div>
 
 <br>
 
 <!-- Footer -->
-<div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=100&section=footer&fontSize=20&fontColor=ffffff" alt="Footer"/>
-  
-  <p>
-    <i>Electrical Engineering Student | Embedded Systems Developer | Hardware Innovator</i><br>
-    <sub>📍 Doha, Qatar • 🎓 Expected Graduation: May 2026 • ⚡ Powered by C/C++ and engineering passion</sub>
+<div align="center" style="margin-top: 40px; padding-top: 20px; border-top: 1px solid #eaeaea; color: #888;">
+
+  <p style="margin-bottom: 8px;">
+    <strong style="color: #666;">Electrical Engineering</strong> • 
+    <strong style="color: #666;">Qatar University</strong> • 
+    <strong style="color: #666;">Expected 2026</strong>
   </p>
+  
+  <p style="font-size: 14px; margin-top: 0;">
+    Focused on embedded systems, hardware prototyping, and practical engineering solutions
+  </p>
+  
+  <div style="margin-top: 16px;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e6e6fa,100:fffacd&height=80&section=footer&reversal=true&fontSize=16&fontColor=888" alt="Footer" />
+  </div>
+
 </div>
