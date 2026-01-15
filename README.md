@@ -32,22 +32,22 @@
 <div align="center">
 
 ### **Languages & Frameworks**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=grey&labelColor=f8f9fa)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=f8f9fa)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=f8f9fa)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=f8f9fa)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=D3D3D3 )
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=D3D3D3 )
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=D3D3D3 )
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=D3D3D3 )
 
 ### **Embedded Platforms**
-![mbed](https://img.shields.io/badge/mbed-LPC1768-0084B6?style=for-the-badge&logo=arm&logoColor=white&labelColor=f8f9fa)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white&labelColor=f8f9fa)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=f8f9fa)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-FFBE00?style=for-the-badge&logo=platformio&logoColor=white&labelColor=f8f9fa)
+![mbed](https://img.shields.io/badge/mbed-LPC1768-0084B6?style=for-the-badge&logo=arm&logoColor=white&labelColor=D3D3D3 )
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white&labelColor=D3D3D3 )
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=D3D3D3 )
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FFBE00?style=for-the-badge&logo=platformio&logoColor=white&labelColor=D3D3D3 )
 
 ### **Tools & Design**
-![Simulink](https://img.shields.io/badge/Simulink-8A2BE2?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=f8f9fa)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-FF6B35?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=f8f9fa)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=f8f9fa)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white&labelColor=f8f9fa)
+![Simulink](https://img.shields.io/badge/Simulink-8A2BE2?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=D3D3D3 )
+![AutoCAD](https://img.shields.io/badge/AutoCAD-FF6B35?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=D3D3D3 )
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=D3D3D3 )
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white&labelColor=D3D3D3 )
 
 </div>
 
