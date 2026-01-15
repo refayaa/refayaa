@@ -28,7 +28,7 @@
 <br>
 
 <!-- Tech Stack Section -->
-## 🛠️ Tech Stack
+## Tech Stack
 <div align="center">
 
 ### **Languages & Frameworks**
@@ -54,7 +54,7 @@
 <br>
 
 <!-- Expertise Section -->
-## 📊 Expertise
+## Expertise
 <div align="center">
 
 | **Domain** | **Skills & Applications** |
@@ -95,7 +95,7 @@
 <br>
 
 <!-- Featured Projects -->
-## 🚀 Featured Projects
+## Featured Projects
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 20px;">
 
@@ -139,26 +139,8 @@
 
 <br>
 
-<!-- GitHub Stats -->
-## 📈 GitHub Stats
-<div align="center">
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
-
-![Refaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=refayaa&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=9c8dff&text_color=5d5d5d&icon_color=ffd166&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=refayaa&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=9c8dff&text_color=5d5d5d&hide=html,css,scss)
-
-</div>
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=refayaa&theme=github-light&hide_border=true&bg_color=ffffff&color=9c8dff&line=ffd166&point=888888&area=true&area_color=9c8dff22)
-
-</div>
-
-<br>
-
 <!-- Professional Experience -->
-## 💼 Experience Highlights
+## Experience Highlights
 <div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; margin: 20px 0;">
 
 ### **Aircraft Systems Development**
@@ -175,7 +157,7 @@
 <br>
 
 <!-- Connect Section -->
-## 🌐 Connect
+## Connect
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-refaya.ahmed33@gmail.com-9c8dff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:refaya.ahmed33@gmail.com)
