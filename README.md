@@ -45,8 +45,8 @@
 ### **Tools & Design**
 ![Simulink](https://img.shields.io/badge/Simulink-8A2BE2?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=D3D3D3 )
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-FF6B35?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=D3D3D3 )
-![NI Multisim](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=D3D3D3 )
-![PowerWorld](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white&labelColor=D3D3D3 )
+![NI Multisim](https://img.shields.io/badge/NI_Multisim-FF6B35?style=for-the-badge&logo=national-instruments&logoColor=white&labelColor=D3D3D3)
+![PowerWorld](https://img.shields.io/badge/PowerWorld-000080?style=for-the-badge&logoColor=white&labelColor=D3D3D3)
 
 </div>
 
@@ -99,7 +99,7 @@
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 20px;">
 
 ### **Aircraft Electrical Load Analysis**
-*Python • MATLAB • Simulink*
+*HTML • Java Script • Power Systems*
 - Developed simulation tool for Qatar Airways fleet
 - Modeled 115VAC/28VDC bus loading across flight phases
 - Enabled scenario-based electrical system assessment
@@ -123,7 +123,7 @@
 - Custom PCB fabrication and testing
 
 ### **SDR Communication Link**
-*MATLAB • ADALM-Pluso • Digital Modulation*
+*MATLAB • ADALM-Pluto • Digital Modulation*
 - Point-to-point wired communication system
 - Configured modulation schemes in Simulink
 - Real-time signal transmission and visualization
