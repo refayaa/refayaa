@@ -1,74 +1,16 @@
-<!-- Banner/Header Section -->
+<!-- Banner using GitHub-compatible markdown -->
 <div align="center">
-  <!-- Pixel Art Sky Banner with Electrical Elements -->
-  <div style="position: relative; width: 100%; height: 180px; background: linear-gradient(180deg, #e6e6fa 0%, #b3b3ff 50%, #ffd166 100%); border-radius: 12px; overflow: hidden; margin-bottom: 20px;">
-    <!-- Pixel Sky Background -->
-    <div style="position: absolute; width: 100%; height: 100%; background-image: 
-      radial-gradient(circle at 20% 30%, rgba(156, 141, 255, 0.15) 2px, transparent 2px),
-      radial-gradient(circle at 40% 50%, rgba(255, 209, 102, 0.1) 1px, transparent 1px),
-      radial-gradient(circle at 60% 70%, rgba(156, 141, 255, 0.12) 3px, transparent 3px),
-      radial-gradient(circle at 80% 40%, rgba(255, 209, 102, 0.08) 1px, transparent 1px);
-      background-size: 50px 50px, 30px 30px, 40px 40px, 60px 60px;">
-    </div>
-    
-    <!-- Lightning Bolt Pixel Art -->
-    <div style="position: absolute; top: 50%; left: 20%; transform: translateY(-50%);">
-      <div style="width: 40px; height: 80px; background: 
-        linear-gradient(45deg, 
-          transparent 40%, 
-          #ffd166 40%, 
-          #ffd166 60%, 
-          transparent 60%
-        ),
-        linear-gradient(-45deg, 
-          transparent 40%, 
-          #ffd166 40%, 
-          #ffd166 60%, 
-          transparent 60%
-        );"></div>
-    </div>
-    
-    <!-- Circuit Pixel Art -->
-    <div style="position: absolute; top: 40%; left: 60%;">
-      <div style="display: grid; grid-template-columns: repeat(4, 8px); grid-template-rows: repeat(4, 8px); gap: 2px;">
-        <div style="background: #9c8dff;"></div><div style="background: #ffd166;"></div><div style="background: #9c8dff;"></div><div style="background: transparent;"></div>
-        <div style="background: #ffd166;"></div><div style="background: #9c8dff;"></div><div style="background: #ffd166;"></div><div style="background: #9c8dff;"></div>
-        <div style="background: #9c8dff;"></div><div style="background: transparent;"></div><div style="background: #ffd166;"></div><div style="background: #ffd166;"></div>
-        <div style="background: #ffd166;"></div><div style="background: #9c8dff;"></div><div style="background: transparent;"></div><div style="background: #9c8dff;"></div>
-      </div>
-    </div>
-    
-    <!-- Mountain Silhouette -->
-    <div style="position: absolute; bottom: 0; width: 100%; height: 40px; background: 
-      linear-gradient(75deg, transparent 30%, #9c8dff 30%, #9c8dff 40%, transparent 40%),
-      linear-gradient(105deg, transparent 40%, #9c8dff 40%, #9c8dff 50%, transparent 50%),
-      linear-gradient(135deg, transparent 60%, #9c8dff 60%, #9c8dff 70%, transparent 70%);">
-    </div>
-    
-    <!-- Floating Clouds -->
-    <div style="position: absolute; top: 20%; left: 40%;">
-      <div style="width: 60px; height: 20px; background: rgba(255, 255, 255, 0.3); border-radius: 10px; 
-        box-shadow: 10px 5px 0 rgba(255, 255, 255, 0.2), -10px 5px 0 rgba(255, 255, 255, 0.2);"></div>
-    </div>
-    
-    <!-- Banner Text -->
-    <div style="position: relative; padding-top: 60px; z-index: 2;">
-      <h2 style="color: #5d5d5d; margin: 0; font-size: 28px; text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.7);">
-        Refaya Ahmed
-      </h2>
-      <h4 style="color: #7a7a7a; font-weight: 400; margin: 8px 0 0 0; font-size: 16px;">
-        Embedded Systems • Electrical Engineering • Hardware Design
-      </h4>
-    </div>
-  </div>
-  
-  <p style="color: #888; font-style: italic; max-width: 600px; margin: 10px auto 20px; font-size: 15px;">
-    Where circuits meet nature • Building hardware solutions inspired by natural systems
-  </p>
-  
-  <div style="margin: 16px 0;">
-    <img src="https://komarev.com/ghpvc/?username=refayaa&color=9c8dff&style=flat-square" alt="Profile views" />
-  </div>
+
+![Banner](https://raw.githubusercontent.com/refayaa/refayaa/main/assets/banner.png)
+
+# Refaya Ahmed
+### Embedded Systems • Electrical Engineering • Hardware Design
+
+*Where circuits meet nature • Building hardware solutions inspired by natural systems*
+
+![Profile Views](https://komarev.com/ghpvc/?username=refayaa&color=9c8dff&style=flat-square)
+
+---
 </div>
 
 <br>
