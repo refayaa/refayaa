@@ -6,7 +6,7 @@
 # Refaya Ahmed
 ### Embedded Systems • Electrical Engineering • Hardware Design
 
-*Where circuits meet nature • Building hardware solutions inspired by natural systems*
+*Where software meets hardware • Building hardware solutions to solve real-world problems*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=refayaa&color=9c8dff&style=flat-square)
 
