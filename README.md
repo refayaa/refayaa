@@ -41,13 +41,12 @@
 ![mbed](https://img.shields.io/badge/mbed-LPC1768-0084B6?style=for-the-badge&logo=arm&logoColor=white&labelColor=D3D3D3 )
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white&labelColor=D3D3D3 )
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=D3D3D3 )
-![PlatformIO](https://img.shields.io/badge/PlatformIO-FFBE00?style=for-the-badge&logo=platformio&logoColor=white&labelColor=D3D3D3 )
 
 ### **Tools & Design**
 ![Simulink](https://img.shields.io/badge/Simulink-8A2BE2?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=D3D3D3 )
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-FF6B35?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=D3D3D3 )
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=D3D3D3 )
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white&labelColor=D3D3D3 )
+![NI Multisim](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=D3D3D3 )
+![PowerWorld](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white&labelColor=D3D3D3 )
 
 </div>
 
