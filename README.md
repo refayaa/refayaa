@@ -161,7 +161,7 @@
   <p style="margin-bottom: 8px;">
     <strong style="color: #666;">Electrical Engineering</strong> • 
     <strong style="color: #666;">Qatar University</strong> • 
-    <strong style="color: #666;">Expected 2026</strong>
+    <strong style="color: #666;">Expected Graduation May 2026</strong>
   </p>
   
   <p style="font-size: 14px; margin-top: 0;">
